@@ -10,14 +10,16 @@ Scripts that generate diverse CAPTCHA datasets.
 - **hard.py**  
   Creates challenging CAPTCHAs with noisy, textured backgrounds and varied fonts.  
   **Run:** `python3 hard.py`
+   Access Dataset at https://www.kaggle.com/datasets/eshaansharmaog/hard-captcha-data-set-50k/data
 
 - **hard_variations.py**  
   Generates multiple variations per word by varying capitalization and spacing.  
   **Run:** `python3 hard_variations.py`
-
+Access Dataset at https://www.kaggle.com/datasets/eshaansharmaog/hard-data-set-precog
 - **easy.py**  
   Produces simple CAPTCHAs on a white background using a fixed font.  
   **Run:** `python3 easy.py`
+  Access Dataset at https://www.kaggle.com/datasets/eshaansharmaog/precogtask-easy/
 
 - **bonus.py**  
   Generates bonus CAPTCHAs with custom noisy backgrounds and special visual effects.  
